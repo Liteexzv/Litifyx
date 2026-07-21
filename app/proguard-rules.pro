@@ -1,0 +1,8 @@
+-keep class com.litify.musicplayer.** { *; }
+-keep interface com.litify.musicplayer.** { *; }
+-keep enum com.litify.musicplayer.** { *; }
+-keep class androidx.** { *; }
+-keep interface androidx.** { *; }
+-keepattributes *Annotation*
+-keepattributes SourceFile,LineNumberTable
+-renamesourcefileattribute SourceFile

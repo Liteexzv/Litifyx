@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Litify</string>
+    <string name="app_slogan">Offline Music Player</string>
+    <string name="home">Home</string>
+    <string name="player">Player</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="speed">Speed</string>
+    <string name="volume">Volume</string>
+    <string name="loading">Loading...</string>
+</resources>
